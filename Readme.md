@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/tarekul/practiceTest/badge.svg?branch=master)](https://coveralls.io/github/tarekul/practiceTest?branch=master)

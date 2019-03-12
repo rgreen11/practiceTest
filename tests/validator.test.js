@@ -12,3 +12,6 @@ test("It returns a boolean for a parameter",()=>{
 test("It returns a boolean for a parameter",()=>{
     expect(validator(9,"number")).toBe(true)
 })
+
+
+
